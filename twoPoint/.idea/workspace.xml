@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d8891bc-4419-4e6e-830b-75b0927a2cb7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/twoPoint/META-INF/twoPoint.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/twoPoint/music/Audio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/twoPoint/music/Audio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/twoPoint/uz/pdp/SoundOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/music/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/Audio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uz/pdp/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uz/pdp/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uz/pdp/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uz/pdp/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uz/pdp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uz/pdp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uz/pdp/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uz/pdp/Menu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gJcHAKCnksiwUeUHmfvhJmjNvM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.splitter.proportion" value="0.23853211" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\twoPoint" />
+      <recent name="C:\Users\User\IdeaProjects\twoPoint\src\music" />
+      <recent name="C:\Users\User\IdeaProjects\twoPoint\src\test" />
+      <recent name="C:\Users\User\IdeaProjects\twoPoint\src\uz\pdp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Audio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.Audio" />
+      <module name="twoPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.pdp.Main" />
+      <module name="twoPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.pdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.pdp.Main" />
+      <module name="twoPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.pdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Music" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Music" />
+      <module name="twoPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.Test" />
+      <module name="twoPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Audio" />
+        <item itemvalue="Application.Music" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d8891bc-4419-4e6e-830b-75b0927a2cb7" name="Default Changelist" comment="" />
+      <created>1597836045127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597836045127</updated>
+      <workItem from="1612714390907" duration="18000" />
+      <workItem from="1612762778437" duration="44000" />
+      <workItem from="1613560352040" duration="106000" />
+      <workItem from="1614019043008" duration="186000" />
+      <workItem from="1614064948758" duration="718000" />
+      <workItem from="1614239649350" duration="156000" />
+      <workItem from="1615006367813" duration="499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/twoPoint$Music.ic" NAME="Music Coverage Results" MODIFIED="1598249533066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
